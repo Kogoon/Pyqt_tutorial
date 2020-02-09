@@ -2,4 +2,4 @@
 practice Pyqt
 
 
-with qtDesigner
+/ with qtDesigner
